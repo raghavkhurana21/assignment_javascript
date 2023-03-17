@@ -10,7 +10,6 @@ body {
     height: 320px;
     border: 5px solid #0c0b0b;
     border-radius: 2px;
-    padding: 10%;
     background-color: #EAEAEA;
   }
   #login .container #login-row #login-column #login-box #login-form {
